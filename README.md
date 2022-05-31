@@ -1,4 +1,4 @@
-# ProiectRetele
+# Computer Networks Project
 
 
 This project is a client-server application that regularly collects information about the system (processes, system load, logged users, running services, connection types), 
